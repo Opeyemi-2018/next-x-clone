@@ -1,5 +1,5 @@
 "use client";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { HiOutlineDotsHorizontal } from "react-icons/hi";
 import UserInfo from "./UserData";
 
